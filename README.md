@@ -3,6 +3,7 @@
 <img src="./image/alterar-fundo-estatico.png" alt="tela inicial" width="800px"></img>
 <img src="./image/alterar-fundo.gif" alt="tela inicial" width="600px"></img>  
 </p>
+
 ## O que é esse projeto?
 Este projeto é uma página feita com HTML, CSS Javascript que contém uma série de
 botões cloridos para que a pessoa que está utilizando a aplicação possa alterar a
