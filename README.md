@@ -68,3 +68,7 @@ Não temos links úteis.
 Você pode contatar o Caio (mantedor do projeto) em caiobarros1712@gmail.com ou entre em contato pelas redes sociais:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-barros-102137287/)
+
+----
+<p align="center">Feito com ☕ por Caio</p>
+
