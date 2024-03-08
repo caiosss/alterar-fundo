@@ -1,4 +1,7 @@
 # Altera Fundo
+![GitHub repo size](https://img.shields.io/github/repo-size/caiosss/alterar-fundo?style=for-the-badge&label=Tamanho&color=%23FF00FF)
+![GitHub License](https://img.shields.io/github/license/caiosss/alterar-fundo?style=for-the-badge&label=License&color=%23FF00FF)
+
 <p align="center">
 <img src="./image/alterar-fundo-estatico.png" alt="tela inicial" width="800px"></img>
 <img src="./image/alterar-fundo.gif" alt="tela inicial" width="600px"></img>  
@@ -24,9 +27,9 @@ para alterar a cor de fundo da página. A cor será alterada de acordo com o
 botão que você pressionar.
 
 ## ⚙️ Tecnologias usadas no projeto
-- HTML
-- CSS
-- Javascript
+ ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## 📒 Features do projeto
 - 5 botões com cores diferente que alteram a cor de fundo da página.
@@ -62,4 +65,6 @@ Não temos links úteis.
 - [Caio](github.com/caiosss) - mantedor do projeto.
 
 ## 🆘 Precisa de ajuda?
-Você pode contatar o Caio (mantedor do projeto) em caiobarros1712@gmail.com
+Você pode contatar o Caio (mantedor do projeto) em caiobarros1712@gmail.com ou entre em contato pelas redes sociais:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-barros-102137287/)
