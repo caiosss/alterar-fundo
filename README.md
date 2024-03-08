@@ -4,6 +4,8 @@
 <img src="./image/alterar-fundo.gif" alt="tela inicial" width="600px"></img>  
 </p>
 
+https://github.com/caiosss/alterar-fundo/assets/138716168/d40d5d93-5426-411d-94a1-2270b4902307
+
 ## O que é esse projeto?
 Este projeto é uma página feita com HTML, CSS Javascript que contém uma série de
 botões cloridos para que a pessoa que está utilizando a aplicação possa alterar a
