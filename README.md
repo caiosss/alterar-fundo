@@ -1,5 +1,6 @@
 # Altera Fundo
-
+![Tela Inicial](./image/alterar-fundo-estatico.png)
+![Aplicação funcionando](./image/alterar-fundo.gif)
 ## O que é esse projeto?
 Este projeto é uma página feita com HTML, CSS Javascript que contém uma série de
 botões cloridos para que a pessoa que está utilizando a aplicação possa alterar a
